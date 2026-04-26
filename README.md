@@ -27,7 +27,7 @@ several angles at once, and shows them where the cracks are.
 
 Two things, working together.
 
-### 1. The website: [drug-cell-viz](https://github.com/patrisiyarum/drug-cell-viz)
+### 1. The website: https://drug-cell-viz-web.onrender.com/
 
 A free website a patient can use at home before they see their oncologist.
 
