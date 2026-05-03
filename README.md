@@ -1,6 +1,6 @@
 # Kintsugi
 
-**Try it live:** [drug-cell-viz-web.onrender.com](https://drug-cell-viz-web.onrender.com)
+**Try it live:** https://kintsugi-lc08.onrender.com/demo
 
 *金継ぎ (kintsugi) is a Japanese art form. When a bowl breaks, you fill the
 cracks with gold instead of hiding them. The bowl is more beautiful than
